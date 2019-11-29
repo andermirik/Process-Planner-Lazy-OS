@@ -1,0 +1,174 @@
+-------------------------------------
+priority: 0	cpu_burst: 2  	pid: 1  	ppid: -1 	R
+priority: 0	cpu_burst: 5  	pid: 8  	ppid: -1 	S
+priority: 2	cpu_burst: 3  	pid: 5  	ppid: -1 	S
+priority: 2	cpu_burst: 3  	pid: 6  	ppid: -1 	S
+priority: 3	cpu_burst: 4  	pid: 0  	ppid: -1 	S
+priority: 3	cpu_burst: 3  	pid: 3  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 0	cpu_burst: 1  	pid: 1  	ppid: -1 	S
+priority: 0	cpu_burst: 5  	pid: 8  	ppid: -1 	R
+priority: 2	cpu_burst: 3  	pid: 5  	ppid: -1 	S
+priority: 2	cpu_burst: 3  	pid: 6  	ppid: -1 	S
+priority: 3	cpu_burst: 4  	pid: 0  	ppid: -1 	S
+priority: 3	cpu_burst: 3  	pid: 3  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 0	cpu_burst: 1  	pid: 1  	ppid: -1 	R
+priority: 2	cpu_burst: 3  	pid: 5  	ppid: -1 	S
+priority: 2	cpu_burst: 3  	pid: 6  	ppid: -1 	S
+priority: 3	cpu_burst: 4  	pid: 0  	ppid: -1 	S
+priority: 3	cpu_burst: 3  	pid: 3  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 2	cpu_burst: 3  	pid: 5  	ppid: -1 	S
+priority: 2	cpu_burst: 3  	pid: 6  	ppid: -1 	R
+priority: 3	cpu_burst: 4  	pid: 0  	ppid: -1 	S
+priority: 3	cpu_burst: 3  	pid: 3  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 2	cpu_burst: 3  	pid: 5  	ppid: -1 	R
+priority: 2	cpu_burst: 2  	pid: 6  	ppid: -1 	S
+priority: 3	cpu_burst: 4  	pid: 0  	ppid: -1 	S
+priority: 3	cpu_burst: 3  	pid: 3  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 2	cpu_burst: 2  	pid: 5  	ppid: -1 	S
+priority: 2	cpu_burst: 2  	pid: 6  	ppid: -1 	R
+priority: 3	cpu_burst: 4  	pid: 0  	ppid: -1 	S
+priority: 3	cpu_burst: 3  	pid: 3  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 2	cpu_burst: 2  	pid: 5  	ppid: -1 	R
+priority: 2	cpu_burst: 1  	pid: 6  	ppid: -1 	S
+priority: 3	cpu_burst: 4  	pid: 0  	ppid: -1 	S
+priority: 3	cpu_burst: 3  	pid: 3  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 2	cpu_burst: 1  	pid: 5  	ppid: -1 	S
+priority: 2	cpu_burst: 1  	pid: 6  	ppid: -1 	R
+priority: 3	cpu_burst: 4  	pid: 0  	ppid: -1 	S
+priority: 3	cpu_burst: 3  	pid: 3  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 2	cpu_burst: 1  	pid: 5  	ppid: -1 	R
+priority: 3	cpu_burst: 4  	pid: 0  	ppid: -1 	S
+priority: 3	cpu_burst: 3  	pid: 3  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 3	cpu_burst: 4  	pid: 0  	ppid: -1 	S
+priority: 3	cpu_burst: 3  	pid: 3  	ppid: -1 	R
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 3	cpu_burst: 4  	pid: 0  	ppid: -1 	R
+priority: 3	cpu_burst: 3  	pid: 3  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 3	cpu_burst: 3  	pid: 0  	ppid: -1 	S
+priority: 3	cpu_burst: 3  	pid: 3  	ppid: -1 	R
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 3	cpu_burst: 3  	pid: 0  	ppid: -1 	R
+priority: 3	cpu_burst: 2  	pid: 3  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 3	cpu_burst: 2  	pid: 0  	ppid: -1 	S
+priority: 3	cpu_burst: 2  	pid: 3  	ppid: -1 	R
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 3	cpu_burst: 2  	pid: 0  	ppid: -1 	R
+priority: 3	cpu_burst: 1  	pid: 3  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 3	cpu_burst: 1  	pid: 0  	ppid: -1 	S
+priority: 3	cpu_burst: 1  	pid: 3  	ppid: -1 	R
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 3	cpu_burst: 1  	pid: 0  	ppid: -1 	R
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 4  	ppid: -1 	R
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 1  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 2  	pid: 7  	ppid: 3 	R
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 1  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 1  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	R
+-------------------------------------
+priority: 4	cpu_burst: 2  	pid: 2  	ppid: -1 	R
+priority: 4	cpu_burst: 1  	pid: 4  	ppid: -1 	S
+priority: 4	cpu_burst: 1  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 4	cpu_burst: 1  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 1  	pid: 4  	ppid: -1 	R
+priority: 4	cpu_burst: 1  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	S
+-------------------------------------
+priority: 4	cpu_burst: 1  	pid: 2  	ppid: -1 	S
+priority: 4	cpu_burst: 1  	pid: 7  	ppid: 3 	S
+priority: 4	cpu_burst: 1  	pid: 9  	ppid: -1 	R
+-------------------------------------
+priority: 4	cpu_burst: 1  	pid: 2  	ppid: -1 	R
+priority: 4	cpu_burst: 1  	pid: 7  	ppid: 3 	S
+-------------------------------------
+priority: 4	cpu_burst: 1  	pid: 7  	ppid: 3 	R
