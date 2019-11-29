@@ -59,7 +59,7 @@ void tick() {
 			for (auto& process : processes) {
 				fout << "priority: " << process.priority;
 				fout << "\tcpu_burst: " << process.cpu_burst << "  \tpid: " << process.pid << "  \tppid: " << process.ppid;
-				if (process.pid == processes[current].pid)
+				if (current <= processes.size() &&  process.pid == processes[current].pid)
 					fout << " \tR";
 				else
 					fout << " \tS";
@@ -104,7 +104,7 @@ int main() {
 		for (auto& process : processes) {
 			cout << "priority: " << process.priority;
 			cout << "\tcpu_burst: " << process.cpu_burst << "  \tpid: " << process.pid << "  \tppid: " << process.ppid;
-			if (process.pid == processes[current].pid)
+			if (current <= processes.size() && process.pid == processes[current].pid)
 				cout << " \tR";
 			else
 				cout << " \tS";
